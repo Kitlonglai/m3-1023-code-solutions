@@ -7,7 +7,7 @@ After completing this exercise, you should be able to discuss or answer the foll
 - What is the `process` object in a Node.js program?
   global object that controls and gives info about the current node.js process
 - How do you access the `process` object in a Node.js program?
-  by using the process variable followed by a property of choice or
+  by using the process variable which can be followed by a property of choice or explicitly accessed using require
   const process = require('process');
 - What is the data type of `process.argv` in Node.js?
   array of strings

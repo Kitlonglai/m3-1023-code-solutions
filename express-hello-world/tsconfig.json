@@ -1,0 +1,7 @@
+{
+  "ts-node": { "transpileOnly": true },
+  "compilerOptions": {
+    "module": "ES2020",
+    "target": "ES2020"
+  }
+}
